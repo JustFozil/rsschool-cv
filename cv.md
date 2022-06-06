@@ -31,4 +31,6 @@ I was born in Tashkent, Uzbekistan in 2003. I love writing code. even if I'm jus
 
 ## Code example:
 
-<img src="C:\Users\Acer\Desktop\rs\rsschool\code example.jpg" alt="code example">
+
+
+<img src="C:\Users\Acer\Desktop\rs\rsschool\codeimg.jpg" alt="code example">
