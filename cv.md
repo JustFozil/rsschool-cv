@@ -9,5 +9,26 @@
 - GitHub: <b> JustFozil</b>
 <hr>
 
-# About me:
-I was born in 
+## <b>About me: </b>
+I was born in Tashkent, Uzbekistan in 2003. I love writing code. even if I'm just studying, I really fell in love with coding. Now I have no expirience in coding but I hope that I'll become professional Front-end developer.
+<hr>
+
+## <b> Skills:</b>
+<ul>
+<li>Technical skills:
+
+- HTML5/CSS3
+- Autodesk AutoCAD
+</li>
+<li> Language skills:
+
+- English (upper-inter)
+- Russian (spoken)
+- Uzbek (native)
+</li>
+</ul>
+<hr>
+
+## Code example:
+
+<img src="C:\Users\Acer\Desktop\rs\rsschool\code example.jpg" alt="code example">
