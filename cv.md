@@ -20,18 +20,27 @@ I was born in Tashkent, Uzbekistan in 2003. I love writing code. even if I'm jus
     - HTML5/CSS3
     - Autodesk AutoCAD
 
-- Language skills:
-
-    - English (upper-inter)
-    - Russian (spoken)
-    - Uzbek (native)
+<hr>
 
 
 ## **Code example:**
 
-    `function sum(a, b) {
+    function sum(a, b) {
      return a + b;
     }
 
     let result = sum(1, 2);
-    alert( result );`
+    alert( result );
+<hr>
+
+## **Experience**
+<hr>
+
+## **Education**
+- University: TIIAME (2020)
+<hr>
+
+## **English**
+
+__B2__ (Graduate of USCHOOL English school).
+
