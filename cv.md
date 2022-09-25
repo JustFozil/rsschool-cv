@@ -4,6 +4,7 @@
 * **E-mail:**  justfrank0404@gmail.com
 * **GitHub:** [JustFozil](https://github.com/JustFozil)
 *  **Telegram:** [JustFozil](https://t.me/JustFozil)
+*  **Instagram** [madaminov._ ](https://instagram.com/madaminov._)
 ### About me
 My name is Fozil but most of my friends call me Frank. I wort as an English teacher in learning center. I am interested in Front-end and I want to be Front-end developer.
 ### Skills
