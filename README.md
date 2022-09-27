@@ -1,2 +1,2 @@
 # rsschool-cv
-https://JustFozil.github.io/rsschool-cv/index.html
+https://JustFozil.github.io/rsschool-cv/index
